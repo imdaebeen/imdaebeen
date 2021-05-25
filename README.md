@@ -17,7 +17,7 @@ JAVA, C#, VB, .NET, Spring, SQL(SP, Function)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imdaebeen)](https://github.com/anuraghazra/github-readme-stats)
 
 
-🦾 Let's be a working developer
+🦾 Live a bit harder than now.
 --
    Thank You.
 
