@@ -12,7 +12,7 @@
 
 ⭐Skills
 --
-JAVA, C#, VB, .NET, Spring, SQL(SP, Function)  
+JAVA,JS , C#, VB, .NET, Spring, SQL(SP, Function)  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imdaebeen)](https://github.com/anuraghazra/github-readme-stats)
 
