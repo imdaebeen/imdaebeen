@@ -22,5 +22,5 @@ JAVA, JS, C#, VB, .NET, Spring, SQL(SP, Function)
    Thank You.
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://daebeen-im.tistory.com/15?category=0)
+[![Tech Blog Badge](https://velog.io/@imgoo90)
 
